@@ -1,3 +1,6 @@
+# Comentarios del Notebook 02_web_scrapping.ipynb
+**Equipo:** grupo11 · **Integración GitHub:** @anmerinoto
+
 Taller de Web Scraping en Python de D-Lab
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Web-Scraping&urlpath=lab%2Ftree%2FPython-Web-Scraping%2F&branch=main)
