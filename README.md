@@ -7,7 +7,7 @@ Taller de Web Scraping en Python de D-Lab
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Web-Scraping/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Este repositorio contiene los materiales para el taller de raspado web de Python de D-Lab.
+Este repositorio contiene los materiales para el taller de Web Scraping de Python de D-Lab.
 
 ## Requisitos previos
 
