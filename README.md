@@ -50,7 +50,7 @@ git@github.com:dlab-berkeley/Python-Web-Scraping.git'.
 ## ¿Python no funciona en su computadora?
 
 Si no tiene Anaconda instalada y los materiales cargados en su taller
-para cuando comience,  recomendamos *encarecidamente* usar el centro de datos de UC Berkeley para ejecutar los materiales para estas lecciones. Puede acceder al DataHub haciendo clic en este botón: 
+para cuando comience,  recomendamos usar el centro de datos de UC Berkeley para ejecutar los materiales para estas lecciones. Puede acceder al DataHub haciendo clic en este botón: 
 
 [![ Centro de datos](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Web-Scraping&urlpath=lab%2Ftree%2FPython-Web-Scraping%2F&branch=main)
 
