@@ -18,7 +18,7 @@ Consulte el [Catálogo de talleres] (https://dlab-berkeley.github.io/dlab-worksh
 ## Objetivos del taller
 
 En este taller, cubrimos cómo extraer datos de la web usando Python. 
-El raspado implica descargar el código fuente de una página web y examinar el archivo material para extraer los datos deseados.
+El Web Scraping implica descargar el código fuente de una página web y examinar el archivo material para extraer los datos deseados.
 
 El Web Scraping generalmente solo se realiza cuando las API web no están disponibles. Plataformas como Twitter, Reddit o The New York Times ofrecen API para recuperar datos. Si usted desea aprender a usar las API web en Python, consulte [Python Web APIs](https://github.com/dlab-berkeley/Python-Web-APIs).
 
