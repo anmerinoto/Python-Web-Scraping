@@ -7,7 +7,7 @@ Taller de Web Scraping en Python de D-Lab
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Web-Scraping/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Este repositorio contiene los materiales para el taller de raspado web de Python de D-Lab.
+Este repositorio contiene los materiales para el taller de Web Scraping de Python de D-Lab.
 
 ## Requisitos previos
 
@@ -18,7 +18,7 @@ Consulte el [Catálogo de talleres] (https://dlab-berkeley.github.io/dlab-worksh
 ## Objetivos del taller
 
 En este taller, cubrimos cómo extraer datos de la web usando Python. 
-El raspado implica descargar el código fuente de una página web y examinar el archivo material para extraer los datos deseados.
+El Web Scraping implica descargar el código fuente de una página web y examinar el archivo material para extraer los datos deseados.
 
 El Web Scraping generalmente solo se realiza cuando las API web no están disponibles. Plataformas como Twitter, Reddit o The New York Times ofrecen API para recuperar datos. Si usted desea aprender a usar las API web en Python, consulte [Python Web APIs](https://github.com/dlab-berkeley/Python-Web-APIs).
 
@@ -50,7 +50,7 @@ git@github.com:dlab-berkeley/Python-Web-Scraping.git'.
 ## ¿Python no funciona en su computadora?
 
 Si no tiene Anaconda instalada y los materiales cargados en su taller
-para cuando comience,  recomendamos *encarecidamente* usar el centro de datos de UC Berkeley para ejecutar los materiales para estas lecciones. Puede acceder al DataHub haciendo clic en este botón: 
+para cuando comience,  recomendamos usar el centro de datos de UC Berkeley para ejecutar los materiales para estas lecciones. Puede acceder al DataHub haciendo clic en este botón: 
 
 [![ Centro de datos](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Web-Scraping&urlpath=lab%2Ftree%2FPython-Web-Scraping%2F&branch=main)
 
